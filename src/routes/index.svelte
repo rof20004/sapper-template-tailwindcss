@@ -45,7 +45,7 @@
 
 <h1>Great success!</h1>
 
-<h2><u>Svelte + Sapper + Tailwindcss</u></h2>
+<h2><u>Svelte + Sapper + Tailwindcss + PurgeCSS</u></h2>
 
 <figure>
 	<img alt='Borat' src='great-success.png'>

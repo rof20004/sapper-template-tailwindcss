@@ -1,4 +1,4 @@
-# sapper-template
+# Sapper Template with Tailwindcss + PurgeCSS
 
 The default [Sapper](https://github.com/sveltejs/sapper) template, available for Rollup and webpack.
 
