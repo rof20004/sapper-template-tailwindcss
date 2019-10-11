@@ -13,7 +13,7 @@
 
 	h2 {
 		text-align: center;
-		font-size: 2.8em;
+		font-size: 1.8em;
 		margin-bottom: 50px;
 	}
 
