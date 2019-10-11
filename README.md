@@ -8,13 +8,11 @@ The default [Sapper](https://github.com/sveltejs/sapper) template, available for
 
 ### Using `degit`
 
-[`degit`](https://github.com/Rich-Harris/degit) is a scaffolding tool that lets you create a directory from a branch in a repository. Use either the `rollup` or `webpack` branch in `sapper-template`:
+[`degit`](https://github.com/Rich-Harris/degit) is a scaffolding tool that lets you create a directory from a branch in a repository:
 
 ```bash
 # for Rollup
-npx degit "sveltejs/sapper-template#rollup" my-app
-# for webpack
-npx degit "sveltejs/sapper-template#webpack" my-app
+npx degit "rof20004/sapper-template-tailwindcss" my-app
 ```
 
 
